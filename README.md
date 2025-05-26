@@ -1,6 +1,6 @@
-# TR-123e: Embedded Moog Synthesiser as Open Instrument, Anti-Product, and Performance Ritual
+# TR-123e
 
-**TR-123e** is a monophonic embedded bass synthesiser inspired by the iconic Moog ladder filter architecture, developed using the Bela real-time audio platform. This repository contains the complete C++ source code, detailed documentation, and resources related to the TR-123e project.
+**TR-123e** is a monophonic embedded bass synthesiser inspired by the iconic Moog ladder filter architecture, developed using the Bela real-time audio platform as the final project of the undergraduate degree BMus/BSc Electronic Music with Computing & Technology, at Goldsmiths, University of London. This repository contains the complete C++ source code.
 
 ## Overview
 
@@ -23,13 +23,6 @@ This project addresses the challenge of maintaining the sonic expressiveness and
 * **Comparative Filter Implementation**: Includes systematic comparisons of filter implementations, emphasizing the ZDF approach.
 * **Robust MIDI Handling**: Accurate timing and portamento processing for seamless pitch transitions.
 * **Audiovisual Interaction**: Integrated with TouchDesigner to visually represent sound parameters in real-time.
-
-## Repository Contents
-
-* `src/` – TR-123e synthesiser C++ codebase
-* `docs/` – Comprehensive documentation and academic dissertation
-* `schematics/` – Hardware interface design and wiring diagrams
-* `examples/` – Demonstration patches and audiovisual integration examples
 
 ## Hardware Requirements
 
@@ -61,7 +54,7 @@ scp -r TR123e root@bela.local:/root/Bela/projects/
 
 ## Documentation
 
-For detailed technical insights and theoretical background, see the dissertation in the `docs/` folder.
+For detailed technical insights and theoretical background, see the dissertation in the `docs/` folder (coming soon)
 
 ## License
 
@@ -78,4 +71,4 @@ Goldsmiths, University of London – Electronic Music, Computing & Technology, 2
 
 ---
 
-**TR-123e** is more than a synthesiser—it's an exploration of technology, cognition, and creative expression, positioned at the intersection of digital precision and analogue warmth.
+**TR-123e** is an exploration of technology, cognition, and creative expression, positioned at the intersection of digital precision and analogue grit.
