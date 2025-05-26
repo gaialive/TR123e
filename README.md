@@ -1,7 +1,4 @@
-# TR123e
-TR-123e: Embedded Moog Synthesiser as Open Instrument, Anti-Product, and Performance Ritual
-
-# TR-123e: Embedded Moog Synthesiser
+# TR-123e: Embedded Moog Synthesiser as Open Instrument, Anti-Product, and Performance Ritual
 
 **TR-123e** is a monophonic embedded bass synthesiser inspired by the iconic Moog ladder filter architecture, developed using the Bela real-time audio platform. This repository contains the complete C++ source code, detailed documentation, and resources related to the TR-123e project.
 
