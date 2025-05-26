@@ -54,7 +54,7 @@ scp -r TR123e root@bela.local:/root/Bela/projects/
 
 ## Documentation
 
-For detailed technical insights and theoretical background, see the dissertation in the `docs/` folder (coming soon)
+For detailed technical insights and theoretical background, see the documentation here : https://gaialive.github.io/TR123e/
 
 ## License
 
