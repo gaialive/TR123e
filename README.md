@@ -1,12 +1,12 @@
 # TR-123e
 
-**TR-123e** is a monophonic embedded bass synthesiser inspired by the iconic Moog ladder filter architecture, developed using the Bela real-time audio platform as the final project of the undergraduate degree BMus/BSc Electronic Music with Computing & Technology, at Goldsmiths, University of London. This repository contains the complete C++ source code.
+**TR-123e** is a monophonic embedded bass synthesiser inspired by the iconic Moog ladder filter architecture, conceived and developed by Timothy Paul Read (under the supervision of Dr Eleonora Oreggia) using the Bela real-time audio platform, as the final project of the undergraduate degree BMus/BSc Electronic Music with Computing & Technology, at Goldsmiths, University of London. This repository contains the complete C++ source code. Full interactive online documentation is also available. Check the link below.
 
 ## Overview
 
 TR-123e translates a sophisticated Max/MSP gen\~ patch into a modular embedded synthesiser using Bela. It features:
 
-* **Zero Delay Feedback (ZDF)** four-pole Moog ladder filter
+* Zero Delay Feedback (ZDF) four-pole Moog ladder filter
 * Real-time MIDI input processing with portamento
 * Dynamic ADSR envelope modulation
 * An expressive eight-parameter hardware interface
@@ -73,8 +73,9 @@ Contributions and enhancements to TR-123e are welcome. Please submit issues or p
 ## Author
 
 **Timothy Paul Read**
-Goldsmiths, University of London – Electronic Music, Computing & Technology, 2025
+Goldsmiths, University of London – Electronic Music, Computing & Technology, 2025. All rights reserved.
 
 ---
 
-**TR-123e** is an exploration of technology, cognition, and creative expression, positioned at the intersection of digital precision and analogue grit.
+**TR-123e**
+an exploration of technology, cognition, and creative expression, positioned at the intersection of digital precision and analogue grit.
