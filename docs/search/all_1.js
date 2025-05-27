@@ -1,8 +1,0 @@
-var searchData=
-[
-  ['basecutofffrequency_0',['baseCutoffFrequency',['../render__with___m_o_o_g_f_i_l_t_e_r_8cpp.html#ae2ce15e674bf958de148690e172ae557',1,'baseCutoffFrequency:&#160;render_with_MOOGFILTER.cpp'],['../render__with___m_o_o_g_f_i_l_t_e_r___i_n_l_i_n_e_8cpp.html#ae2ce15e674bf958de148690e172ae557',1,'baseCutoffFrequency:&#160;render_with_MOOGFILTER_INLINE.cpp'],['../render__with___n_e_o_n___m_o_o_g_f_i_l_t_e_r_8cpp.html#ae2ce15e674bf958de148690e172ae557',1,'baseCutoffFrequency:&#160;render_with_NEON_MOOGFILTER.cpp'],['../render_8cpp.html#ae2ce15e674bf958de148690e172ae557',1,'baseCutoffFrequency:&#160;render.cpp']]],
-  ['bilineartransformmoogladderfilter_2ecpp_1',['BilinearTransformMoogLadderFilter.cpp',['../_bilinear_transform_moog_ladder_filter_8cpp.html',1,'']]],
-  ['bilineartransformmoogladderfilter_2eh_2',['BilinearTransformMoogLadderFilter.h',['../_bilinear_transform_moog_ladder_filter_8h.html',1,'']]],
-  ['bp12_3',['BP12',['../class_z_d_f_moog_ladder_filter.html#a0a61b3acb61226d718562280ab544b9fa9b9e88310941be95a62357d4f54e64f9',1,'ZDFMoogLadderFilter']]],
-  ['buffersize_4',['bufferSize',['../render__with___m_o_o_g_f_i_l_t_e_r_8cpp.html#a8556d19b129aa550f5b2819ed0320e83',1,'bufferSize:&#160;render_with_MOOGFILTER.cpp'],['../render__with___m_o_o_g_f_i_l_t_e_r___i_n_l_i_n_e_8cpp.html#a8556d19b129aa550f5b2819ed0320e83',1,'bufferSize:&#160;render_with_MOOGFILTER_INLINE.cpp'],['../render__with___n_e_o_n___m_o_o_g_f_i_l_t_e_r_8cpp.html#a8556d19b129aa550f5b2819ed0320e83',1,'bufferSize:&#160;render_with_NEON_MOOGFILTER.cpp'],['../render_8cpp.html#a8556d19b129aa550f5b2819ed0320e83',1,'bufferSize:&#160;render.cpp']]]
-];

@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['oldx_0',['oldx',['../class_moog_ladder_filter.html#a07ab2bbf244b2cc1043e78c073b6ab27',1,'MoogLadderFilter']]],
-  ['oldy_1',['oldy',['../class_moog_ladder_filter.html#ac9499315de156a12aa91d030ea361663',1,'MoogLadderFilter']]],
-  ['oscillatorphase_2',['oscillatorPhase',['../render__with___m_o_o_g_f_i_l_t_e_r_8cpp.html#a45a2e8cb602645d3e36c30d5508fd0d6',1,'oscillatorPhase:&#160;render_with_MOOGFILTER.cpp'],['../render__with___m_o_o_g_f_i_l_t_e_r___i_n_l_i_n_e_8cpp.html#a45a2e8cb602645d3e36c30d5508fd0d6',1,'oscillatorPhase:&#160;render_with_MOOGFILTER_INLINE.cpp'],['../render__with___n_e_o_n___m_o_o_g_f_i_l_t_e_r_8cpp.html#a45a2e8cb602645d3e36c30d5508fd0d6',1,'oscillatorPhase:&#160;render_with_NEON_MOOGFILTER.cpp'],['../render_8cpp.html#a45a2e8cb602645d3e36c30d5508fd0d6',1,'oscillatorPhase:&#160;render.cpp']]],
-  ['outputbuffer_3',['outputBuffer',['../render__with___m_o_o_g_f_i_l_t_e_r_8cpp.html#ad6b1fd58fc6b838cd5927d4925b30812',1,'outputBuffer:&#160;render_with_MOOGFILTER.cpp'],['../render__with___m_o_o_g_f_i_l_t_e_r___i_n_l_i_n_e_8cpp.html#ad6b1fd58fc6b838cd5927d4925b30812',1,'outputBuffer:&#160;render_with_MOOGFILTER_INLINE.cpp'],['../render__with___n_e_o_n___m_o_o_g_f_i_l_t_e_r_8cpp.html#ad6b1fd58fc6b838cd5927d4925b30812',1,'outputBuffer:&#160;render_with_NEON_MOOGFILTER.cpp'],['../render_8cpp.html#ad6b1fd58fc6b838cd5927d4925b30812',1,'outputBuffer:&#160;render.cpp']]]
-];
