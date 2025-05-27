@@ -77,5 +77,5 @@ Goldsmiths, University of London – Electronic Music, Computing & Technology, 2
 
 ---
 
-**TR-123e**
+## TR-123e
 an exploration of technology, cognition, and creative expression, positioned at the intersection of digital precision and analogue grit.
