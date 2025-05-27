@@ -24,6 +24,12 @@ This project addresses the challenge of maintaining the sonic expressiveness and
 * **Robust MIDI Handling**: Accurate timing and portamento processing for seamless pitch transitions.
 * **Audiovisual Interaction**: Integrated with TouchDesigner to visually represent sound parameters in real-time.
 
+  ## Repository Contents
+
+* `.` – TR-123e Synthesiser C++ codebase
+* `DEV/` – Comprehensive filter examples, technical breakdowns, and render setups
+* `schematics/` – Hardware interface design and wiring diagrams
+
 ## Hardware Requirements
 
 * Bela platform (ARM-based embedded audio processor)
@@ -54,7 +60,7 @@ scp -r TR123e root@bela.local:/root/Bela/projects/
 
 ## Documentation
 
-For detailed technical insights and theoretical background, see the documentation here : https://gaialive.github.io/TR123e/
+For detailed technical insights and theoretical background, check the documentation here : http://www.gaialive.com/TR123e/html/
 
 ## License
 
