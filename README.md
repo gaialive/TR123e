@@ -1,6 +1,6 @@
 # TR-123e
 
-**TR-123e** is a monophonic embedded bass synthesiser inspired by the iconic Moog ladder filter architecture, conceived and developed by Timothy Paul Read (under the supervision of Dr Eleonora Oreggia) using the Bela real-time audio platform, as the final project of the undergraduate degree BMus/BSc Electronic Music with Computing & Technology, at Goldsmiths, University of London. This repository contains the complete C++ source code. Full interactive online documentation is also available. Check the link below.
+**TR-123e** is a monophonic embedded bass synthesiser inspired by the iconic Moog ladder filter architecture, conceived and developed by Timothy Paul Read using the Bela real-time audio platform, as the final project of the BMus/BSc Electronic Music, Computing & Technology degree programme at Goldsmiths, University of London. This repository contains the complete C++ source code. Full interactive online documentation is also available. Check the link below.
 
 ## Overview
 
@@ -60,11 +60,11 @@ scp -r TR123e root@bela.local:/root/Bela/projects/
 
 ## Documentation
 
-For detailed technical insights and theoretical background, check the documentation here : http://www.gaialive.com/TR123e/html/
+For detailed technical insights and theoretical background, check my extensive documentation here : http://www.gaialive.com/TR123e/html/
 
 ## License
 
-TR-123e is distributed under the MIT License. See `LICENSE` for details.
+TR-123e is distributed under the GAIALIVE License. See `LICENSE` for details.
 
 ## Contributing
 
@@ -73,9 +73,12 @@ Contributions and enhancements to TR-123e are welcome. Please submit issues or p
 ## Author
 
 **Timothy Paul Read**
-Goldsmiths, University of London – Electronic Music, Computing & Technology, 2025. All rights reserved.
+
+2025. All rights reserved.
+
+CONTACT : tim@gaialive.com // tim@gaialive.co.uk // tim@third-ear.net // tread001@gold.ac.uk
 
 ---
 
 ## TR-123e
-an exploration of technology, cognition, and creative expression, positioned at the intersection of digital precision and analogue grit.
+an exploration of technology, cognition, and creative expression, positioned at the intersection of digital precision and analogue dirt.
