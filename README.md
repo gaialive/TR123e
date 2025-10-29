@@ -72,9 +72,7 @@ Contributions and enhancements to TR-123e are welcome. Please submit issues or p
 
 ## Author
 
-**Timothy Paul Read**
-
-2025. All rights reserved.
+**Timothy Paul Read. 2025. All rights reserved.**
 
 CONTACT : tim@gaialive.com // tim@gaialive.co.uk // tim@third-ear.net // tread001@gold.ac.uk
 
