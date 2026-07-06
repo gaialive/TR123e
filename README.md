@@ -41,7 +41,7 @@ This project addresses the challenge of maintaining the sonic expressiveness and
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YourUsername/TR123e.git
+git clone https://github.com/gaialive/TR123e.git
 ```
 
 2. Deploy the project onto your Bela board using the Bela IDE or terminal:
