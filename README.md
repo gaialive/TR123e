@@ -69,7 +69,7 @@ TR-123e is distributed under the GAIALIVE License. See `LICENSE` for details.
 
 ## Author
 
-**Timothy Paul Read** — [cybernics.co.uk](https://cybernics.co.uk) · <tim@gaialive.com>
+**Timothy Paul Read** — [cybernics.co.uk](https://cybernics.co.uk) · <hello@cybernics.co.uk>
 
 TR-123e originated as the final project of the BMus/BSc Electronic Music, Computing and Technology programme at Goldsmiths, University of London (First Class Honours, 2025).
 
