@@ -57,7 +57,7 @@ TR-123e is the built groundwork of a wider research practice in open instrument 
 
 Full interactive technical documentation (Doxygen): <https://www.gaialive.com/TR123e/html/>
 
-The complete written study — design rationale, comparative filter analysis, and the open-instrument argument — is in the dissertation included in this repository: [`TR-123e_Dissertation.pdf`](TR-123e_Dissertation.pdf).
+The complete written study — design rationale, comparative filter analysis, and the open-instrument argument — is in the dissertation available on request.
 
 ## Contributing
 
